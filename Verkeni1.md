@@ -2,7 +2,7 @@
 **Færslur og snúningar,  vægi 15% af loka einkunn**
 
 **Lesefni**
-
+- https://api.vex.com/v5/home/cpp/index.html
 - https://api.vex.com/v5/home/cpp/Motor.html
 - https://api.vex.com/v5/home/cpp/Drivetrain.html
 - https://kb.vex.com/hc/en-us/articles/360035952771-Creating-a-V5-Drivetrain
