@@ -1,0 +1,5 @@
+- [DriveTrain](https://kb.vex.com/hc/en-us/articles/360035952771-Creating-a-V5-Drivetrain)
+- [Klasasafn](https://api.vex.com/v5/home/cpp/index.html)
+- [Fjarstýring](https://kb.vex.com/hc/en-us/sections/360007147332-Controller)
+- [Tölvan](https://kb.vex.com/hc/en-us/sections/360007213472-Robot-Brain)
+- [Mótorar](https://kb.vex.com/hc/en-us/sections/360007213472-Robot-Brain)
