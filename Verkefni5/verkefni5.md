@@ -1,18 +1,16 @@
-Fylgja línu,  vægi 15% af loka einkunn
+QRcode / AprilTag,  vægi 15% af loka einkunn
 
-***Linsensor linetracking***
+***AprilTag***
 
 Lesið allt í lesefni áður en þið byrjið verkefnið það er nauðsynlegt að þið skiljið efnið og tækin sem þið eruð að vinna með.
 
 Lesefni:
-- [Linesensor](https://kb.vex.com/hc/en-us/articles/360039287611-Using-the-V5-3-Wire-Line-Tracker)
+- [Linesensor](https://kb.vex.com/hc/en-us/articles/24616769643924-Coding-with-the-AI-Vision-Sensor-in-VEXcode-V5-C#id-header-4)
 
 
 Vægi þátta:
 1. Kóði 30 stig
-1. Flæðirit og eða sauðakóða 20 stig
 1. Virkni (myndband) 40 stig
-2. Reikna lyftigetu arms 10 stig
 
 Róbot á að fylgja línu sem er sett á golfið.
 Setjið upp línu-sensora, þeir eru 3, notið sample program- Line followe Triple Sensor line tracking til að koma ykkur af stað og UltraSonic  Range Modul. 
