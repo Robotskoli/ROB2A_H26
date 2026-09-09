@@ -5,7 +5,8 @@ QRcode / AprilTag,  vægi 15% af loka einkunn
 Lesið allt í lesefni áður en þið byrjið verkefnið það er nauðsynlegt að þið skiljið efnið og tækin sem þið eruð að vinna með.
 
 Lesefni:
-- [Linesensor](https://kb.vex.com/hc/en-us/articles/24616769643924-Coding-with-the-AI-Vision-Sensor-in-VEXcode-V5-C#id-header-4)
+- [AI Vision](https://kb.vex.com/hc/en-us/articles/24616769643924-Coding-with-the-AI-Vision-Sensor-in-VEXcode-V5-C#id-header-4)
+- [AprilTag](https://api.vex.com/v5/home/cpp/Smart_Port_Devices/AI_Vision_Sensor.html)
 
 
 Vægi þátta:
