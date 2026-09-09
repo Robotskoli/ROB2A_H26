@@ -10,18 +10,16 @@ Lesefni:
 
 
 Vægi þátta:
+1. Sýna kennara að allt virkar 30 stig
 1. Kóði 30 stig
 1. Virkni (myndband) 40 stig
 
-Róbot á að fylgja línu sem er sett á golfið.
-Setjið upp línu-sensora, þeir eru 3, notið sample program- Line followe Triple Sensor line tracking til að koma ykkur af stað og UltraSonic  Range Modul. 
-Skoðið þetta dæmi **Line Tracking**.
-Gerið sér task sem birtir á skjá hvort vélmennið er hægrimegin, vinstrimegin eða á miðju línu og ef engin lína þá birtist
-**"Leita af línu"** Gerið ráðstafanir svo vélmennið finni línuna aftur má vera sér task :-)
-- Byrjið á því að gera sauðakóða og eða flæðirit https://www.draw.io/. þegar búið farið í  File-export as - image .png
-- Gerið kóða í samræmi við sauðakóða/flæðirit og vistið á github
-- Takið upp video og setjið tengil í það á github (t.d youtube).
-- Skilið sló af github ykkar í Innu verkefni 4
+#### Sýna kennara
+1. Farið í Brain og devices veljið port sem þið tengduð AI vision í veljið eitthvað AprilTag og setjið fyrir framan AI vision
+hann á að sýna ID AprilTags.
+1. Náið í kóða úr C++ klasasafninu sem notar AI vision keyrið hann og látið kóðan prenta út ID á AprilTag á skjá
+
+
 
 ### Reikna lyftigetu arma
 
