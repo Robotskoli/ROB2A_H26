@@ -19,7 +19,7 @@ Vægi þátta:
 hann á að sýna ID AprilTags.
 1. Búið til V5 verkefni sem er tómt (empty template project), þið sjáið í Include er bara vex.h skrá og í src er main.cpp
    setjið þennan kóða í stað þess sem fyrir er:
-   ```c++
+```c++
    /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
