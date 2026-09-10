@@ -10,7 +10,8 @@ Lesefni:
 
 
 Vægi þátta:
-1. Sýna kennara að allt virkar 30 stig
+1. Sauðakóði 10 stig
+1. Sýna kennara að allt virkar 20 stig
 1. Kóði 30 stig
 1. Virkni (myndband) 40 stig
 
@@ -81,21 +82,19 @@ int main() {
 }
 ```
 
+### Verkefnið
+Setjið AprilTag á 3 box Rauðan , Grænan og Bláan. Id 1 á að vera fyrir miðju á Rauðu boxi 2 á Grænu og 3 á Bláu.
+Setjið AprilTag á 3 box Rauðan , Grænan og Bláan. Id 4 á að vera fyrir miðju á Rauðu boxi 5 á Grænu og 6 á Bláu.
+1,2 og 3 verða við vegg og bil á milli er eitt box, beint á móti í 3m fjarlægð eru hin boxin 4,5 og 6.
+Vélmennið á að finna box id 1 og setja ofaná box id 6, id 2 fer á id 5 og id 3 fer á id 4
 
 
-### Reikna lyftigetu arma
+### Verkefna skil
+1. sauða Kóði
+2. Kóði
+3. Myndband
 
-Dæmi:
 
-Rauður mótor vex V5 torq 2,1Nm breyti yfir í kgcm 21kgcm þettar er án gíra í armi
-1. ef armur er 10 cm langur þá er lyftigetan  21kg / 10 = 2,1 kg
-1. ef armur er 45 cm þá er lyftigetan 21kgcm / 45 =  0,46 kg
-í armi er tannhjól m 12T og annað 48T 48T / 12T  = 4 sinnum meira torq og 4 sinnum minni hraði
-ef við erum með 45cm arm og rauðan mótor 0,46kg x 4 þá er lyftigetan 1,86 kg (stall) og til að vera örugg með að eyðileggja ekki mótor
-þá deilum við með 2 eða 0,933 kg
-
-sýnið ykkar útreikninga á lyfrigetu þ.e með grænum mótor og mælið ykkar arm og tannhjól sem tengjast armi.
-Finnið hlut sem er jafn þungur og reiknuð lyftigeta arms og látið vélmennið lyfta, takið video af því og skilið.
 
 Hér eftir skulu öll verkefni vera þannig að hægt sé að stöðva vélmenni með því að þrýsta á einhvern takka á fjarstýringu og neyðarrofa á vélmenni.
 
