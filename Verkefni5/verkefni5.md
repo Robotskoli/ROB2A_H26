@@ -54,18 +54,17 @@ int main() {
     // Check to see if an AprilTag exists in this snapshot.
     if (AIVision1.objectCount > 0) {
       // Determine which AprilTag is detected.
-      if (AIVision1.objects[0].id == static_cast<int>(1.0)) {
+      if (AIVision1.objects[0].id == 1) {
         // Conditional based on finding TagID #1.
-        Brain.Screen.print("Found TagID 1");
-      } else if (AIVision1.objects[0].id == static_cast<int>(2.0)) {
-        // Conditional based on finding TagID #2.
+        Brain.Screen.print("Fann TagID 1");
+      } else if (AIVision1.objects[0].id == 2) {
         Brain.Screen.print("Fann TagID 2");
       } else {
         // Else condition will print any other TagID found.
         Brain.Screen.print("Fann TagID");
         Brain.Screen.newLine();
         Brain.Screen.print("TagID: ");
-        Brain.Screen.print(static_cast<float>(AIVision1.objects[0].id));
+        Brain.Screen.print(AIVision1.objects[0].id);
       }
     }
     else {
@@ -87,6 +86,8 @@ Setjið AprilTag á 3 box Rauðan , Grænan og Bláan. Id 1 á að vera fyrir mi
 Setjið AprilTag á 3 box Rauðan , Grænan og Bláan. Id 4 á að vera fyrir miðju á Rauðu boxi 5 á Grænu og 6 á Bláu.
 1,2 og 3 verða við vegg og bil á milli er eitt box, beint á móti í 3m fjarlægð eru hin boxin 4,5 og 6.
 Vélmennið á að finna box id 1 og setja ofaná box id 6, id 2 fer á id 5 og id 3 fer á id 4
+Vélmennið á að prenta á skjá (controller og Brain) hvað það er að gera og þegar hverjum hluta er lokið.
+dæmi "Sæki id1" og "id1 er komið á sinn stað"
 
 
 ### Verkefna skil
