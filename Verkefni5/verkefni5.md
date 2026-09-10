@@ -17,7 +17,69 @@ Vægi þátta:
 #### Sýna kennara
 1. Farið í Brain og devices veljið port sem þið tengduð AI vision í veljið eitthvað AprilTag og setjið fyrir framan AI vision
 hann á að sýna ID AprilTags.
-1. Náið í kóða úr C++ klasasafninu sem notar AI vision keyrið hann og látið kóðan prenta út ID á AprilTag á skjá
+1. Búið til V5 verkefni sem er tómt (empty template project), þið sjáið í Include er bara vex.h skrá og í src er main.cpp
+   setjið þennan kóða í stað þess sem fyrir er:
+   ```c++
+   /*----------------------------------------------------------------------------*/
+/*                                                                            */
+/*    Module:       main.cpp                                                  */
+/*    Author:       ebe                                                       */
+/*    Created:      9/10/2026, 7:37:24 AM                                     */
+/*    Description:  V5 project                                                */
+/*                                                                            */
+/*----------------------------------------------------------------------------*/
+#include "vex.h"
+
+using namespace vex;
+
+// A global instance of vex::brain used for printing to the V5 brain screen
+vex::brain       Brain;
+
+vex::aivision AIVision1(PORT1, aivision::ALL_TAGS, aivision::ALL_AIOBJS);
+
+
+// define your global instances of motors and other devices here
+
+
+int main() {
+
+
+   
+    while(1) {
+         Brain.Screen.clearScreen();
+    Brain.Screen.setCursor(1, 1);
+    // Take a snapshot of all AprilTags.
+    AIVision1.takeSnapshot(aivision::ALL_TAGS);
+    // Check to see if an AprilTag exists in this snapshot.
+    if (AIVision1.objectCount > 0) {
+      // Determine which AprilTag is detected.
+      if (AIVision1.objects[0].id == static_cast<int>(1.0)) {
+        // Conditional based on finding TagID #1.
+        Brain.Screen.print("Found TagID 1");
+      } else if (AIVision1.objects[0].id == static_cast<int>(2.0)) {
+        // Conditional based on finding TagID #2.
+        Brain.Screen.print("Found TagID 2");
+      } else {
+        // Else condition will print any other TagID found.
+        Brain.Screen.print("Found TagID");
+        Brain.Screen.newLine();
+        Brain.Screen.print("TagID: ");
+        Brain.Screen.print(static_cast<float>(AIVision1.objects[0].id));
+      }
+    }
+    else {
+      // If no AprilTags are found in this snapshot, display a message.
+      Brain.Screen.print("No AprilTags");
+    }
+    // Wait some time and restart loop.
+    wait(0.3, seconds);
+  wait(5, msec);
+  }
+  return 0;
+
+    
+}
+```
 
 
 
