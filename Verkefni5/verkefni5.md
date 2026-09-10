@@ -58,10 +58,10 @@ int main() {
         Brain.Screen.print("Found TagID 1");
       } else if (AIVision1.objects[0].id == static_cast<int>(2.0)) {
         // Conditional based on finding TagID #2.
-        Brain.Screen.print("Found TagID 2");
+        Brain.Screen.print("Fann TagID 2");
       } else {
         // Else condition will print any other TagID found.
-        Brain.Screen.print("Found TagID");
+        Brain.Screen.print("Fann TagID");
         Brain.Screen.newLine();
         Brain.Screen.print("TagID: ");
         Brain.Screen.print(static_cast<float>(AIVision1.objects[0].id));
@@ -69,7 +69,7 @@ int main() {
     }
     else {
       // If no AprilTags are found in this snapshot, display a message.
-      Brain.Screen.print("No AprilTags");
+      Brain.Screen.print("Ekkert AprilTag");
     }
     // Wait some time and restart loop.
     wait(0.3, seconds);
