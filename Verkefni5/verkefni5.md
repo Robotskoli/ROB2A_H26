@@ -82,10 +82,7 @@ int main() {
 ```
 
 ### Verkefnið
-Setjið AprilTag á 3 box Rauðan , Grænan og Bláan. Id 1 á að vera fyrir miðju á Rauðu boxi 2 á Grænu og 3 á Bláu.
-Setjið AprilTag á 3 box Rauðan , Grænan og Bláan. Id 4 á að vera fyrir miðju á Rauðu boxi 5 á Grænu og 6 á Bláu.
-1,2 og 3 verða við vegg og bil á milli er eitt box, beint á móti í 3m fjarlægð eru hin boxin 4,5 og 6.
-Vélmennið á að finna box id 1 og setja ofaná box id 6, id 2 fer á id 5 og id 3 fer á id 4
+Vélmennið á að finna box id 1 og setja ofaná box id 2 sem er á móti id 1 boxi
 Vélmennið á að prenta á skjá (controller og Brain) hvað það er að gera og þegar hverjum hluta er lokið.
 dæmi "Sæki id1" og "id1 er komið á sinn stað"
 
