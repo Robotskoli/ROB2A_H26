@@ -47,8 +47,8 @@ int main() {
 
    
     while(1) {
-         Brain.Screen.clearScreen();
-    Brain.Screen.setCursor(1, 1);
+   Brain.Screen.clearScreen();
+   Brain.Screen.setCursor(1, 1);
     // Take a snapshot of all AprilTags.
     AIVision1.takeSnapshot(aivision::ALL_TAGS);
     // Check to see if an AprilTag exists in this snapshot.
