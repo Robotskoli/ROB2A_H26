@@ -82,9 +82,10 @@ int main() {
 ```
 
 ### Verkefnið
-Vélmennið á að finna box id 1 og setja ofaná box id 2 sem er á móti id 1 boxi
+Vélmennið á að finna box id 1 og setja ofaná box id 2 sem er í 2m fjarlægð ásamt 3 boxum með öðrum númerum sem eru á móti id 1 boxi
 Vélmennið á að prenta á skjá (controller og Brain) hvað það er að gera og þegar hverjum hluta er lokið.
-dæmi "Sæki id1" og "id1 er komið á sinn stað"
+dæmi "Fann id 1","Sæki id1", "opna kló",  "loka kló", "lyfti"  " fann id 2", "er að fara á stað id 2" og "id1 er komið á sinn stað"
+þ.e vélmennið skrifar skilaboð á skjá hvað það er að gera.
 
 
 ### Verkefna skil
