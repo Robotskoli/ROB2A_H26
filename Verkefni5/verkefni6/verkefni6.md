@@ -27,9 +27,9 @@ skynja aprilTag id 1 sækja og setja á svæði sjá mynd
 Lesefni:
 * [Klasasafn Vex5 C++](https://api.vex.com/v5/home/cpp/index.html)
 * [Um ai klasan :](https://api.vex.com/v5/home/cpp/Smart_Port_Devices/AI_Vision_Sensor.html)
-* [SmartDdive](https://api.vex.com/v5/home/cpp/Drivetrain/smartdrive.html)
-* [Fjarstæyring](https://api.vex.com/v5/home/cpp/Controller/index.html)
-* [Inertial sensor](https://api.vex.com/v5/home/cpp/Smart_Port_Devices/Inertial_Sensor.html)
+* [Smartdrive](https://api.vex.com/v5/home/cpp/Drivetrain/smartdrive.html)
+* [Fjarstýring](https://api.vex.com/v5/home/cpp/Controller/index.html)
+* [InertialSensor](https://api.vex.com/v5/home/cpp/Smart_Port_Devices/Inertial_Sensor.html)
 * [Giró](https://api.vex.com/v5/home/cpp/3-Wire_Devices/Gyro.html)
 * [Sónar](https://api.vex.com/v5/home/cpp/3-Wire_Devices/Range_Finder.html)
 * [Laser fjarlægðarskynjari](https://api.vex.com/v5/home/cpp/Smart_Port_Devices/Distance_Sensor.html)
