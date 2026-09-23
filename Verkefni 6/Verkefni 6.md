@@ -40,4 +40,4 @@ Lesefni:
 * [Sónar](https://api.vex.com/v5/home/cpp/3-Wire_Devices/Range_Finder.html)
 * [Laser fjarlægðarskynjari](https://api.vex.com/v5/home/cpp/Smart_Port_Devices/Distance_Sensor.html)
 * [Neyðarstopp](https://api.vex.com/v5/home/cpp/3-Wire_Devices/Bumper.html)
-* Lokið
+* {Flæðirit fyrir lokaverkefni](lokaverkefni.drawio.png)
