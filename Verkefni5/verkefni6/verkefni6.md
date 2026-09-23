@@ -25,8 +25,5 @@ skynja aprilTag id 1 sækja og setja á svæði sjá mynd
 
 #### Gagnalistar
 Lesefni:
-* https://www.w3schools.com/cpp/cpp_arrays.asp
-* https://www.w3schools.com/cpp/cpp_list.asp
-* https://www.w3schools.com/cpp/cpp_vectors.asp
-* https://www.w3schools.com/cpp/cpp_deque.asp
+* [Klasasafn Vex5 C++](https://api.vex.com/v5/home/cpp/index.html)
 * Um ai klasan : https://api.vex.com/v5/home/cpp/Vision/AiVision.html#id
