@@ -26,4 +26,4 @@ skynja aprilTag id 1 sækja og setja á svæði sjá mynd
 #### Gagnalistar
 Lesefni:
 * [Klasasafn Vex5 C++](https://api.vex.com/v5/home/cpp/index.html)
-* Um ai klasan : https://api.vex.com/v5/home/cpp/Vision/AiVision.html#id
+* [Um ai klasan :](https://api.vex.com/v5/home/cpp/Smart_Port_Devices/AI_Vision_Sensor.html)
