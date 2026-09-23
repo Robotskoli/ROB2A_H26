@@ -4,7 +4,7 @@
 * Verkefnið 15%
 * Keppni 10%
 
-### Ai myndavél
+### Ai my)ndavél
 Verkefnið gengur út á það að nýta ykkur Ai myndavél sem þið setjið upp á vélmennið ykkar, myndavélin skynjar
 apriltag form stærð og liti hlutar. Keppnissvæði (vinnusvæði) er 2 x 3m (bxl) vélmennið er fyrir miðju, vélmennið á að
 skynja aprilTag id 1 sækja og setja á svæði sjá mynd
@@ -27,3 +27,10 @@ skynja aprilTag id 1 sækja og setja á svæði sjá mynd
 Lesefni:
 * [Klasasafn Vex5 C++](https://api.vex.com/v5/home/cpp/index.html)
 * [Um ai klasan :](https://api.vex.com/v5/home/cpp/Smart_Port_Devices/AI_Vision_Sensor.html)
+* [SmartDdive](https://api.vex.com/v5/home/cpp/Drivetrain/smartdrive.html)
+* [Fjarstæyring](https://api.vex.com/v5/home/cpp/Controller/index.html)
+* [Inertial sensor](https://api.vex.com/v5/home/cpp/Smart_Port_Devices/Inertial_Sensor.html)
+* [Giró](https://api.vex.com/v5/home/cpp/3-Wire_Devices/Gyro.html)
+* [Sónar](https://api.vex.com/v5/home/cpp/3-Wire_Devices/Range_Finder.html)
+* [Laser fjarlægðarskynjari](https://api.vex.com/v5/home/cpp/Smart_Port_Devices/Distance_Sensor.html)
+* [Neyðarstopp](https://api.vex.com/v5/home/cpp/3-Wire_Devices/Bumper.html)
