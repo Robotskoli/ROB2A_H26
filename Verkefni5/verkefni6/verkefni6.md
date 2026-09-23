@@ -1,8 +1,8 @@
 ## Lokaverkefni (verkefni6)
 ### 35% af loka einkunn
 * PRÓF 10%
-* Verkefnið 15%
-* Keppni 10%
+* Verkefnið 20%
+* Keppni 5%
 
 ### Ai my)ndavél
 Verkefnið gengur út á það að nýta ykkur Ai myndavél sem þið setjið upp á vélmennið ykkar, myndavélin skynjar
