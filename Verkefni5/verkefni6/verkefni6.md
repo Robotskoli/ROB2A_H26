@@ -2,9 +2,15 @@
 ### 35% af loka einkunn
 * PRÓF 10%
 * Verkefnið 20%
+  * Kóði 8 %
+  * Myndband (virkni 8%
+  * Sauðakóði/flæðirit 4%
 * Keppni 5%
+  * 1.sæti 5%
+  * 2.sæti 4%
+  * 3.sæti 3%
 
-### Ai my)ndavél
+### Ai myndavél
 Verkefnið gengur út á það að nýta ykkur Ai myndavél sem þið setjið upp á vélmennið ykkar, myndavélin skynjar
 apriltag form stærð og liti hlutar. Keppnissvæði (vinnusvæði) er 2 x 3m (bxl) vélmennið er fyrir miðju, vélmennið á að
 skynja aprilTag id 1 sækja og setja á svæði sjá mynd
@@ -34,4 +40,4 @@ Lesefni:
 * [Sónar](https://api.vex.com/v5/home/cpp/3-Wire_Devices/Range_Finder.html)
 * [Laser fjarlægðarskynjari](https://api.vex.com/v5/home/cpp/Smart_Port_Devices/Distance_Sensor.html)
 * [Neyðarstopp](https://api.vex.com/v5/home/cpp/3-Wire_Devices/Bumper.html)
-* Lok
+* Lokið
