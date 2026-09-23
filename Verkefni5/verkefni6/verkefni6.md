@@ -3,7 +3,7 @@
 ### Ai myndavél
 Verkefnið gengur út á það að nýta ykkur Ai myndavél sem þið setjið upp á vélmennið ykkar, myndavélin skynjar
 apriltag form stærð og liti hlutar. Keppnissvæði (vinnusvæði) er 2 x 3m (bxl) vélmennið er fyrir miðju, vélmennið á að
-skynja aprilTag id 1 sækja og setja á svæði sjá [myndmynd](https://github.com/Robotskoli/ROB2A_H26/blob/main/Keppni%202026%20haust.png)
+skynja aprilTag id 1 sækja og setja á svæði sjá ![myndmynd](https://github.com/Robotskoli/ROB2A_H26/blob/main/Keppni%202026%20haust.png)
 
 
 
