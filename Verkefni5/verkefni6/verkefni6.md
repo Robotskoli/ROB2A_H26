@@ -2,10 +2,10 @@
 
 ### Ai myndavél
 Verkefnið gengur út á það að nýta ykkur Ai myndavél sem þið setjið upp á vélmennið ykkar, myndavélin skynjar
-barkóða meðal annars sem þið fáið hjá kennara. Setjið barkóða á þá hluti sem þið viljið t.d flöslur með mismunandi vatnsmagni og
-þyngd, hver barkóði hefur ID t.d 1 eða 2 ....? búið til lista yfir vörur / hluti þar sem hver hlutir hefur sitt ID og heiti-lýsingu-þyngd
-Límið barkóða á hlut sem svo Ai myndavél geti lesið og þarafleiðandi fengið heiti hlutar og t.d þyngd. Vélmennið velur hlut sem er jafn þungur eða léttari
-en reiknuð geta armsins.
+apriltag form stærð og liti hlutar. Keppnissvæði (vinnusvæði) er 2 x 3m (bxl) vélmennið er fyrir miðju, vélmennið á að
+skynja aprilTag id 1 sækja og setja á svæði sjá mynd
+
+
 
 #### Gagnalistar
 Lesefni:
